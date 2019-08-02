@@ -4,10 +4,9 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- *
  * Created by miaozc on 2019-4-20.
  */
-public class ConcretePrototype extends Prototype  implements Cloneable, Serializable {
+public class ConcretePrototype extends Prototype implements Cloneable, Serializable {
 
     private List<String> list = null;
     private String name = null;

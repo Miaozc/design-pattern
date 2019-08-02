@@ -1,6 +1,4 @@
-package com.miaozc.pattern.proxy.dynamicproxy;
-
-import com.miaozc.pattern.proxy.ICustomer;
+package com.miaozc.pattern.proxy;
 
 /**
  * Created by miaozc on 2019-8-2.

@@ -6,10 +6,10 @@ import com.miaozc.pattern.proxy.ICustomer;
  * Created by miaozc on 2019-8-1.
  * 快递公司（proxy）
  */
-public class ExpressCompany {
+public class ExpressCompanyStaticPorxy {
     private ICustomer iCustomer;
 
-    public ExpressCompany(ICustomer iCustomer) {
+    public ExpressCompanyStaticPorxy(ICustomer iCustomer) {
         this.iCustomer = iCustomer;
     }
 
