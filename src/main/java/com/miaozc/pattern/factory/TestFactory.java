@@ -13,6 +13,7 @@ import com.miaozc.pattern.factory.simpleFactory.MobileSimpleFactory;
 
 /**
  * Created by miaozc on 2019-3-30.
+ * 测试工厂模式
  */
 public class TestFactory {
 

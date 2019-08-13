@@ -14,7 +14,7 @@ public class Customer implements ICustomer {
     @Override
     public String send() {
         System.out.println(this.name + "填写快递单");
-        return null;
+        return "Customer send";
     }
 
 }

@@ -21,6 +21,6 @@ public class Robot implements ICustomer {
         }else{
             System.out.println("智能机器人"+name+"填写快递单");
         }
-        return null;
+        return "Robot send";
     }
 }
